@@ -1,15 +1,26 @@
-- 👋 Hi, I’m Diogo Carvalho
-- 👀 I’m interested in the area of ​​information technology, I am in
-my 2nd semester, and studying programming languages ​​in courses
-online, my main focus is to become a full stack developer.
-- 🌱 I'm currently learning the front-end area, dedicating myself to learning Javascript,
-HTML. I have skills in Excel, World, programming logic,
-knowledge of hardware and software. I also started a Java bootcamp.
-- 💞️ I'm looking for a collaborator in financial market companies, such as Itaú.
-- 📫 How to contact me... Phone +55(11)992147487 and email diogocarva25@gmail.com 
 
+# Olá, sou o Diogo Carvalho! 👋
 
-<!---
-digocarvalhoo/digocarvalhoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bem-vindo ao meu perfil do GitHub! 
+
+## 🚀 Sobre Mim
+- 🌱 Atualmente, estou aprendendo a Linguagem Java!
+- 💻 Sou um aspirante a desenvolvedor de software!
+- 🎯 Meu objetivo é melhorar minhas habilidades em desenvolvimento FullStack 
+- ⚡ Curiosidade: Adoro jogar um fps!
+
+## 📈 Estatísticas
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=digocarvalhoo&show_icons=true&count_private=true&hide=prs&theme=codeSTACKr" style="width: 500px; height: 200px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digocarvalhoo&layout=compact" style="width: 500px; height: 200px;" />
+</div>
+
+## 🔧 Tecnologias & Ferramentas
+
+- **Linguagens**: JavaScript, Java, Html, Css
+- **Ferramentas**: Git
+
+## 📫 Como me encontrar
+- **LinkedIn**: linkedin.com/in/diogocarvalhooo
+- **Email**: diogocarva25@gmail.com 
