@@ -1,7 +1,12 @@
 
-# Olá, sou o Diogo Carvalho! 👋
 
-Bem-vindo ao meu perfil do GitHub! 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+meu+nome+%C3%A9+Diogo+Carvalho" alt="Typing Animation" 👋/>
+</h1>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogocarvalhooo/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/digo_carvalhoo/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogocarva25@gmail.com)
 
 ## 🚀 Sobre Mim
 - 🌱 Atualmente, estou aprendendo a Linguagem Java!
@@ -18,9 +23,17 @@ Bem-vindo ao meu perfil do GitHub!
 
 ## 🔧 Tecnologias & Ferramentas
 
-- **Linguagens**: JavaScript, Java, Html, Css
-- **Ferramentas**: Git
+<div>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript">
+<img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java" alt="java">
+</div>
 
-## 📫 Como me encontrar
-- **LinkedIn**: linkedin.com/in/diogocarvalhooo
-- **Email**: diogocarva25@gmail.com 
+<div>
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git">
+</div>
+
+  
+
