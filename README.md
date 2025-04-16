@@ -16,10 +16,10 @@
 
 ## 📈 Estatísticas
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=digocarvalhoo&show_icons=true&count_private=true&hide=prs&theme=codeSTACKr" style="width: 500px; height: 200px;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digocarvalhoo&layout=compact" style="width: 500px; height: 200px;" />
-</div>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=digocarvalhoo&show_icons=true&count_private=true&hide=prs&theme=codeSTACKr" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digocarvalhoo&layout=compact" style: width="360";/>
+</p>
 
 ## 🔧 Tecnologias & Ferramentas
 
