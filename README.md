@@ -1,15 +1,22 @@
 
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Ol%C3%A1!+meu+nome+%C3%A9+Diogo+Carvalho" alt="Typing Animation" 👋/>
 </h1>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogocarvalhooo/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/digo_carvalhoo/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogocarva25@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/diogocarvalhooo/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/digo_carvalhoo/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:diogocarva25@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ## 🚀 Sobre Mim
-- 🌱 Atualmente, estou aprendendo a Linguagem Java!
+- 🌱 Atualmente estou desenvolvendo na Linguagem Java!
 - 💻 Sou um aspirante a desenvolvedor de software!
 - 🎯 Meu objetivo é melhorar minhas habilidades em desenvolvimento FullStack 
 - ⚡ Curiosidade: Adoro jogar um fps!
