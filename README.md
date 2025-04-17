@@ -25,7 +25,7 @@
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=digocarvalhoo&show_icons=true&count_private=true&hide=prs&theme=codeSTACKr" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digocarvalhoo&layout=compact" style: width="360";/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digocarvalhoo&layout=compact&cache_seconds=60" width="360" />
 </p>
 
 ## 🔧 Tecnologias & Ferramentas
